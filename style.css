@@ -30,7 +30,3 @@ p{
 .container-fluid{
     margin: 5%;
 }
-a>.nav-link{
-    background-color:red;
-    color:white;
-}
