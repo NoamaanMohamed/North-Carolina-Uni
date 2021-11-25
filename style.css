@@ -1,3 +1,4 @@
+
 h1, h3{
     color:rgb(1, 1, 129);
     text-align:center;
@@ -30,3 +31,26 @@ p{
 .container-fluid{
     margin: 5%;
 }
+
+td{
+    text-align: center;
+    vertical-align:center;
+}
+
+th{
+    text-align: center;
+    vertical-align:center;
+}
+
+
+.h3 {
+    color: blue;
+    margin: 10px 10px;
+}
+
+
+.btn {
+    background-color: blue;
+}
+
+
