@@ -1,3 +1,15 @@
+
+
+td{
+    text-align: center;
+    vertical-align:center;
+}
+
+th{
+    text-align: center;
+    vertical-align:center;
+}
+
 .body {
     background-color: gold;
 }
@@ -21,3 +33,4 @@ p {
 .btn {
     background-color: blue;
 }
+
